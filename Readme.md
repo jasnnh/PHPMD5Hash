@@ -8,3 +8,5 @@ Confidentiality, Integrity, and Availability
 using Hasing to protect the integrity of the file.
 
 ![Screenshot](https://github.com/jasnnh/PHPMD5Hash/blob/main/ss.PNG)
+
+In order to use this file you must have a webserver running PHP or it will not work.
